@@ -1,0 +1,11 @@
+git command
+
+- git add
+- git commit -m ""
+- git push
+
+
+Set global username and email
+
+-  git config --global user.name "username"
+-  git config --global user.email "user@gmail.com"
